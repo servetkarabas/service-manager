@@ -1,0 +1,2 @@
+# Module com.lbs.LBSWidgetSet
+# RPC service class, partial path of RPC policy file
